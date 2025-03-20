@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #e9eafe;
+  padding: 30px;
+}
+
+.card {
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 16px;
+  border: none;
+  margin-bottom: 20px;
+}
+
+.form-control,
+.form-select {
+  box-shadow: none !important;
+  outline: none !important;
+}
